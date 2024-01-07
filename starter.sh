@@ -19,7 +19,7 @@ pkg install curl -y
 pkg install libenet -y
 pkg install wget -y
 clear
-wget -q https://github.com/JanuppiXDei/Proxy/raw/main/proxy
+wget -q https://github.com/JanuppiXDei/proxyy/raw/main/proxy
 sleep 1
 echo -e "${GREEN}Proxy Installation: Done!${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
